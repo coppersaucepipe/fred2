@@ -1,0 +1,25 @@
+{
+  "name": "fred2",
+  "version": "1.0.0",
+  "description": "fred",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coppersaucepipe/fred2.git"
+  },
+  "keywords": [
+    "fred"
+  ],
+  "author": "steve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coppersaucepipe/fred2/issues"
+  },
+  "homepage": "https://github.com/coppersaucepipe/fred2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
